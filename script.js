@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Sample URL for real-life open-source data (e.g., U.S. Census data)
+    // URL for real-life open-source data (e.g., U.S. Census data)
     const dataUrl = 'https://api.example.com/data'; // Replace with a real API endpoint
   
     fetch(dataUrl)
